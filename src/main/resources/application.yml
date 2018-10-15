@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/LiYanLance/springcloud-config-repository.git
+          uri: https://github.com/wangleiR/springcloud-config.git
           search-paths: micro-service
           timeout: 60
 server:
